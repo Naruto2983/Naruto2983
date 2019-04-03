@@ -1,0 +1,57 @@
+.paralaxe
+{
+    background-image: url("../img/mh3.jpg");
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+.bd
+{
+    padding-top: 245px;
+    padding-bottom: 245px;
+    color: white;
+}
+
+.bd2
+{
+    background-image: url("../img/GreatJaggi.jpg");
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+.bg
+{
+    background-image: url("../img/mh6.jpg");
+    background-repeat: no-repeat;
+    height: 100%;
+    color: white;
+
+}
+
+.pad
+{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.g
+{
+    background-color: #0f6674;
+    color: white;
+}
+
+@media only screen and (max-width: 600px)
+{
+    .bg
+    {
+        background-image: url("../img/mh7.jpg");
+    }
+}
